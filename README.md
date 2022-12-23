@@ -1,4 +1,4 @@
-<h1 align="center"> macOS on Huawei Matebook 13 2020 Monterey&Big Sur </h1>
+<h1 align="center"> Hackintosh Huawei Matebook 13 2020 Monterey&Big Sur </h1>
 
 <p align="center">
 
