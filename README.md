@@ -21,39 +21,39 @@
 <p align="center"
   
 ## Contents
-  - [Screenshots](https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh#screenshots-)
-  - [Photos](https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh#photos)
-  - [Original Hardware](https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh#original-hardware--)
-  - [macOS Update History](https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh#macos-update-history)
-  - [What's working](https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh#whats-working--)
-  - [What's not working](https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh#whats-not-working-)
-  - [What's you have to do](https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh#whats-you-have-to-do--)
-  - [Kexts Used](https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh#kext-used)
-  - [SSDTs Used](https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh#ssdt-used)
-  - [Disable CFG Lock](https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh#how-to-disable-cfg-lock)
-  - [Credits](https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh#credits)
-  - [Donate](https://github.com/yusufklncc/yusfklncc/blob/main/Donate%20-%20Bağış.md)
+  - [Screenshots](https://github.com/atmqca/Huawei-Matebook-13-Hackintosh#screenshots-)
+  - [Photos](https://github.com/atmqca/Huawei-Matebook-13-Hackintosh#photos)
+  - [Original Hardware](https://github.com/atmqca/Huawei-Matebook-13-Hackintosh#original-hardware--)
+  - [macOS Update History](https://github.com/atmqca/Huawei-Matebook-13-Hackintosh#macos-update-history)
+  - [What's working](https://github.com/atmqca/Huawei-Matebook-13-Hackintosh#whats-working--)
+  - [What's not working](https://github.com/atmqca/Huawei-Matebook-13-Hackintosh#whats-not-working-)
+  - [What's you have to do](https://github.com/atmqca/Huawei-Matebook-13-Hackintosh#whats-you-have-to-do--)
+  - [Kexts Used](https://github.com/atmqca/Huawei-Matebook-13-Hackintosh#kext-used)
+  - [SSDTs Used](https://github.com/atmqca/Huawei-Matebook-13-Hackintosh#ssdt-used)
+  - [Disable CFG Lock](https://github.com/atmqca/Huawei-Matebook-13-Hackintosh#how-to-disable-cfg-lock)
+  - [Credits](https://github.com/atmqca/Huawei-Matebook-13-Hackintosh#credits)
+  - [Donate](https://github.com/atmqca/yusfklncc/blob/main/Donate%20-%20Bağış.md)
   
 ## Screenshots 📷
 
 ### CPU Usage and Temperature  
 - Normal
 
-  <img src="https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh/blob/main/Images/Normal%20CPU%20Frequency%20and%20Temperature.png" width="300">
-  <img src="https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh/blob/main/Images/Normal%20CPU%20Usage.png" width="400">
+  <img src="https://github.com/atmqca/Huawei-Matebook-13-Hackintosh/blob/main/Images/Normal%20CPU%20Frequency%20and%20Temperature.png" width="300">
+  <img src="https://github.com/atmqca/Huawei-Matebook-13-Hackintosh/blob/main/Images/Normal%20CPU%20Usage.png" width="400">
   
 - Maximum
 
-  <img src="https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh/blob/main/Images/Max%20CPU%20Frequency%20and%20Temperature.png" width="300">
-  <img src="https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh/blob/main/Images/Max%20CPU%20Usage.png" width="400">  
+  <img src="https://github.com/atmqca/Huawei-Matebook-13-Hackintosh/blob/main/Images/Max%20CPU%20Frequency%20and%20Temperature.png" width="300">
+  <img src="https://github.com/atmqca/Huawei-Matebook-13-Hackintosh/blob/main/Images/Max%20CPU%20Usage.png" width="400">  
   
 <p align="center">
-  <img src="https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh/blob/main/Images/macOS/macOS%20Monterey.png">
+  <img src="https://github.com/atmqca/Huawei-Matebook-13-Hackintosh/blob/main/Images/macOS/macOS%20Monterey.png">
 </p>
 
 <details>
   <summary> <h3>Photos</h3> </summary>
-  <img src="https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh/blob/main/Images/Matebook%20Photo.jpg" alt="Huawei Matebook 13 2020">
+  <img src="https://github.com/atmqca/Huawei-Matebook-13-Hackintosh/blob/main/Images/Matebook%20Photo.jpg" alt="Huawei Matebook 13 2020">
 </details>
 
 ## Original Hardware  💻
