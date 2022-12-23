@@ -8,15 +8,6 @@
 
 <h4 align="center"> OpenCore config for Hackintosh Huawei Matebook 13 2020 </h4>
 
-<p align="center">
-<a href="https://www.apple.com/macos/monterey/">
-  <img src="https://img.shields.io/badge/macOS-Monterey%2012.6-purple" width="215"/> </a>
-<a href="https://github.com/acidanthera/OpenCorePkg/releases">
-  <img src="https://img.shields.io/badge/OpenCore-0.8.5-9cf" width="155"/> </a>
-<a href="https://github.com/atmqca/Huawei-Matebook-13-Hackintosh/releases">
-  <img src="https://img.shields.io/badge/release-EFI-blue.svg" width="115"/> </a>
-<a href="https://github.com/atmqca/Huawei-Matebook-13-Hackintosh/issues"> 
-  <img src="https://img.shields.io/github/issues/atmqca/Huawei-Matebook-13-Hackintosh" width="145"/> </a>
 </p>
 <p align="center"
   
