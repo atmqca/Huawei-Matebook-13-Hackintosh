@@ -164,7 +164,7 @@ SSDT | Info | Status
   - Format a usb stick to FAT32.
   - Create a new folder named "EFI" in root.
   - Create a new folder named "BOOT" in /EFI/.
-  - Download [cfgunlock.zip](https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh/blob/main/Images/cfgunlock.zip)
+  - Download [cfgunlock.zip](https://github.com/atmqca/Huawei-Matebook-13-Hackintosh/blob/main/Images/cfgunlock.zip)
   - Copy BOOTx64.efi from cfgunlock.zip to EFI/BOOT in your USB.
   - Restart and boot with this usb.
   - After you boot. Press alt and "key next to backspace" in same time.
@@ -172,7 +172,7 @@ SSDT | Info | Status
   - Press enter in keyboard to enter "CpuSetup".
   - You will see this.
   
-  <img src="https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh/blob/main/Images/CpuSetup.jpg" width="500">
+  <img src="https://github.com/atmqca/Huawei-Matebook-13-Hackintosh/blob/main/Images/CpuSetup.jpg" width="500">
   
   - If 0030-0E value is 01 in your computer continue. If it is 00. You don't need this.
   - Use ← → ↑ ↓ key to pick it and change to 00.
@@ -193,8 +193,3 @@ SSDT | Info | Status
  - [Alex James](https://github.com/al3xtjames) for NoTouchID kext.
  - [Sniki](https://github.com/Sniki) for USB kext.
  - And anyone else that helped to develop and improve hackintoshing.
-
-<h1 align="center"> Donate - Bağış </h1>
-<p align="center">
-<a href="https://github.com/yusufklncc/yusfklncc/blob/main/Donate%20-%20Ba%C4%9F%C4%B1%C5%9F.md">
-  <img src="https://github.com/yusufklncc/yusfklncc/blob/main/Resources/Donate.png" width="300">
