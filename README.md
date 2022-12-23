@@ -1,7 +1,9 @@
 <h1 align="center"> macOS on Huawei Matebook 13 2020 </h1>
 
 <p align="center">
-![Ekran Resmi 2022-03-20 02 01 10-min](https://user-images.githubusercontent.com/102032847/209411380-d2989e38-2b8c-4e66-afc0-b8fd2972a124.png)
+
+ ![Ekran Resmi 2022-03-20 02 01 10-min](https://user-images.githubusercontent.com/102032847/209411397-c585aeeb-cb36-41ed-90b6-7cfe0150d075.png)
+
 
 
 <h4 align="center"> OpenCore config for Hackintosh Huawei Matebook 13 2020 </h4>
