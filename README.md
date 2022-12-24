@@ -1,7 +1,7 @@
 <h1 align="center"> Hackintosh Huawei Matebook 13 2020 Monterey&Big Sur </h1>
 
-<p align="center">
-![Matebook 13 2020](https://user-images.githubusercontent.com/102032847/209430012-04e909b6-99c5-4dbc-8ef1-7f6f7c575e8c.png)
+![Matebook 13 2020](https://user-images.githubusercontent.com/102032847/209430018-40687186-bd16-4a4a-bc05-3b8b12ece8a2.png)
+
 
 
 
