@@ -96,7 +96,7 @@ NVIDIA GeForce MX250 | Not supported in macOS | ❌
 Type | Info | Status
 :---------|:---------|:----------
 SMBIOS Settings  | With [GenSMBIOS] you should definitely set your SMBIOS settings and ROM value for iCloud and Apple services. ROM value is your ethernet MAC address. Be sure your ethernet is en0 in Hackintool. |  ⚠️
-Disable CFG Lock | Here my guide [READ](https://github.com/yusufklncc/Huawei-Matebook-13-Hackintosh#how-to-disable-cfg-lock) | ⚠️
+Disable CFG Lock | Here my guide [READ](https://github.com/atmqca/Huawei-Matebook-13-Hackintosh#how-to-disable-cfg-lock) | ⚠️
 
 ## Kext Used 
  
